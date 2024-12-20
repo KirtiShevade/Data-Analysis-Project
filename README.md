@@ -8,17 +8,8 @@ A comprehensive SQL-based project designed to manage hospital data, including pa
 - Medication and Prescription Tracking
 - Efficient Discharge Summary Generation
 ## Technologies Used
-- SQL (Structured Query Language)
-- MySQL Database
+- ChatGPT prompt to prepare a dataset 
+- SQL (structured querry language)
 
 
-# Retail Sales Dashboard
-An interactive Power BI dashboard designed to analyze retail sales trends and help businesses make data-driven decisions.
-## Features
-- Monthly and Yearly Sales Comparisons
-- Insights into Top Products and Categories
-- Customer Segmentation by Spending Patterns
-- Dynamic Filters for Detailed Analysis
-## Technologies Used
-- Power BI (Data Visualization)
-- MS Excel
+
