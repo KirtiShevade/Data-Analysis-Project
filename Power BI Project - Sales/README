@@ -1,0 +1,13 @@
+# Retail Sales Dashboard
+An interactive Power BI dashboard designed to analyze retail sales trends and help businesses make data-driven decisions.
+## Features
+- Monthly and Yearly Sales Comparisons
+- Insights into Top Products and Categories
+- Customer Segmentation by Spending Patterns
+- Dynamic Filters for Detailed Analysis
+## Technologies Used
+- Power BI (Data Visualization)
+- ChatGPT prompt to generate dataset
+- MS Excel
+
+
